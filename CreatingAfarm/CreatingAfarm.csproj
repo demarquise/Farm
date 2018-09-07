@@ -43,8 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="horse.cs" />
-    <Compile Include="eagel.cs" />
-    <Compile Include="lion.cs" />
+    <Compile Include="duck.cs" />
+    <Compile Include="goat.cs" />
     <Compile Include="pig.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
